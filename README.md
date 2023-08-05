@@ -20,7 +20,7 @@ I'm a passionate developer and tech enthusiast, always eager to learn and explor
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=christhapa98&show_icons=true&hide=prs,issues&theme=dark)](https://github.com/christhapa98)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christhapa98&layout=compact&theme=dark)](https://github.com/christhapa98)
 
 ## 🌐 Let's Connect
 
