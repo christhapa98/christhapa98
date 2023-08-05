@@ -24,7 +24,7 @@ I'm a passionate developer and tech enthusiast, always eager to learn and explor
 
 ## 🌐 Let's Connect
 
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/chris-thapa-27535017a/))
-- Personal Website: [your-website.com]([https://christhapa.co](https://www.christhapa.com.np/))
+- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/chris-thapa-27535017a/)]([https://www.linkedin.com/in/chris-thapa-27535017a/](https://www.linkedin.com/in/chris-thapa-27535017a/))
+- Personal Website: [https://www.christhapa.com.np/]([https://www.christhapa.com.np/](https://www.christhapa.com.np/))
 
 
